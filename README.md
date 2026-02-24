@@ -40,7 +40,7 @@ Projeto criado para praticar arquitetura full stack, modelagem de dados e implem
 ============================================================================================
 
 
-# Manual de instalação — Production Manager
+# Manual de instalação — product-inventory-Project
 
 Guia rápido para rodar o projeto localmente.
 
