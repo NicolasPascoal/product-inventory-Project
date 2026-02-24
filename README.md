@@ -37,7 +37,8 @@ O objetivo foi criar uma interface simples, organizada e fácil de evoluir.
 Projeto criado para praticar arquitetura full stack, modelagem de dados e implementação de regra de negócio além de CRUD simples.
 
 
-=====================================================================================================================================
+============================================================================================
+
 
 # Manual de instalação — Production Manager
 
