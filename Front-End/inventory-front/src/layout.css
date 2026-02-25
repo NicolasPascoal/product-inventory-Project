@@ -54,3 +54,58 @@
   font-size: 28px;
   font-weight: bold;
 }
+/* BOTÃO HAMBURGUER */
+.hamburger {
+  display: none;
+  position: fixed;
+  top: 16px;
+  left: 16px; 
+  font-size: 28px;
+  background: none;
+  border: none;
+  color: #1f2937;
+  cursor: pointer;
+  z-index: 1001;
+}
+/* SIDEBAR PADRÃO */
+.sidebar {
+  width: 220px;
+  background: #1f2937;
+  color: white;
+  padding: 20px;
+  transition: transform 0.3s ease;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  z-index: 1000;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+  .sidebar h2 {
+    margin-top: 60px; 
+  }
+
+  .sidebar {
+    transform: translateX(-100%);
+    padding-top: 20px;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+
+  .layout .content {
+    margin-left: 0;
+    padding: 16px;
+  }
+
+  .dashboard-cards {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}

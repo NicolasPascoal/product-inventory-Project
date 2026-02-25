@@ -4,6 +4,14 @@ Aplicação full stack para gerenciamento de produção.
 
 O sistema permite cadastrar produtos, matérias-primas e definir a composição de cada produto. Com isso, é possível saber quantos produtos podem ser fabricados com base no estoque disponível.
 
+---
+# Apresentação do projeto
+
+Assista ao vídeo demonstrando as funcionalidades e o design do sistema:
+
+Link do video: https://youtu.be/k9xLXdRabyA
+
+---
 ## Back-end
 
 O back-end é responsável pela regra de negócio e pela API.
@@ -37,7 +45,7 @@ O objetivo foi criar uma interface simples, organizada e fácil de evoluir.
 Projeto criado para praticar arquitetura full stack, modelagem de dados e implementação de regra de negócio além de CRUD simples.
 
 
-============================================================================================
+---
 
 
 # Manual de instalação — product-inventory-Project

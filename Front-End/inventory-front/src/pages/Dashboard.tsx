@@ -75,7 +75,7 @@ export default function Dashboard() {
                 </button>
             </div>
 
-            <h2>Total: {data?.totalValue}</h2>
+            <h2>Total: {data?.totalValue}R$</h2>
             <div className="dashboard-cards">
 
     <div className="card">
