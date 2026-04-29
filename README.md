@@ -7,10 +7,10 @@ O sistema permite cadastrar produtos, matérias-primas e definir a composição 
 ---
 # Apresentação do projeto
 
-Assista ao vídeo demonstrando as funcionalidades e o design do sistema:
+Assista ao vídeo demonstrando as funcionalidades e o design do sistema e veja o Post no linkedIn:
 
-Link do video: https://youtu.be/k9xLXdRabyA
-Link do LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7432241056236064768/
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/k9xLXdRabyA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20Projeto-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7432241056236064768/)
 
 ---
 ## Back-end
