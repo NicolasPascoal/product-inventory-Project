@@ -10,6 +10,7 @@ O sistema permite cadastrar produtos, matérias-primas e definir a composição 
 Assista ao vídeo demonstrando as funcionalidades e o design do sistema:
 
 Link do video: https://youtu.be/k9xLXdRabyA
+Link do LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7432241056236064768/
 
 ---
 ## Back-end
